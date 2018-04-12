@@ -1,0 +1,3 @@
+database: id5368127_pbd
+username : id5368127_pbd_root
+password : 12345
